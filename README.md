@@ -13,3 +13,5 @@ Recon List
 
 1. DMARC Vulnerability
 script uses website https://www.mxtoolbox.com/ to check vulnerability
+
+NOTE: MORE FEATURES COMING SOON
