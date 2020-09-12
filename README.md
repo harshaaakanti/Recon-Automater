@@ -1,7 +1,6 @@
 # Recon-Automater
 Here is a script which automate the recon part of hacking 
 
-requirements:
 
 Download:
 1. gitclone https://github.com/harshaaakanti/Recon-Automater.git
@@ -11,7 +10,7 @@ Download:
 
 Recon List
 
-1. DMARC Vulnerability
-script uses website https://www.mxtoolbox.com/ to check vulnerability
+1. DMARC Vulnerability:
+  script uses website https://www.mxtoolbox.com/ to check vulnerability
 
 NOTE: MORE FEATURES COMING SOON
